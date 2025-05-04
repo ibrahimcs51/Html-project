@@ -26,6 +26,7 @@ function foo(){
     }
 }
 foo()
+foo()
 
 
 
